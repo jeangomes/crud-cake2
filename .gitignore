@@ -2,6 +2,7 @@
 #################################################
 /app/Config/database.php
 /app/tmp
+/app/webroot/js/jquery-validation-1.17.0
 /lib/Cake/Console/Templates/skel/tmp/
 /plugins
 /vendors
